@@ -1,2 +1,2 @@
 # DuelZone.gg
-1v1.lol ripoff
+SourceCode for DuelZone.gg
